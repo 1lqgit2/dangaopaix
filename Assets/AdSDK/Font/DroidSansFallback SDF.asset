@@ -47,8 +47,8 @@ Material:
     - _StencilOp: 0
     - _StencilReadMask: 255
     - _StencilWriteMask: 255
-    - _TextureHeight: 1024
-    - _TextureWidth: 1024
+    - _TextureHeight: 2048
+    - _TextureWidth: 2048
     - _UnderlayDilate: 0
     - _UnderlayOffsetX: 0
     - _UnderlayOffsetY: 0
@@ -12289,7 +12289,7 @@ MonoBehaviour:
   m_AtlasTextures:
   - {fileID: 7918471459484868180}
   - {fileID: 5484856132885917761}
-  m_AtlasTextureIndex: 1
+  m_AtlasTextureIndex: 0
   m_IsMultiAtlasTexturesEnabled: 1
   m_ClearDynamicDataOnBuild: 0
   m_UsedGlyphRects:
