@@ -57,6 +57,9 @@ sysinfo.txt
 /[Aa]ssets/[Aa]ssetStoreTools*
 /[Aa]ssets/[Pp]lugins/[Ee]ditor/JetBrains*
 
+# ===== 抖音小游戏一键导出产物（可随时重新导出，不纳入版本控制）=====
+/tt-minigame/
+
 # ===== Agent / tool folders =====
 .workbuddy/
 
