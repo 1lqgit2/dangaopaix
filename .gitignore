@@ -59,3 +59,8 @@ sysinfo.txt
 
 # ===== Agent / tool folders =====
 .workbuddy/
+
+# ===== 本地备份 / 字体诊断中间产物 =====
+*.bak_before_static
+*.bak_before_static.meta
+/FontTools/backup/

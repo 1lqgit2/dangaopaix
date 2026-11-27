@@ -10,11 +10,11 @@ require('./plugin-config.js');
 const managerConfig = {
      DATA_CDN: "",
      resourceCdnUrl: "http://",
-     DATA_FILE_MD5: "cdf7cfbe87ee9cd0", 
+     DATA_FILE_MD5: "4a00455d71bdc1ac", 
      CODE_FILE_MD5: "36ac6a6401ad74ab",
      GAME_NAME: "webgl",
      APPID: "tt5e6928d4c0144a3607",
-     DATA_FILE_SIZE: "35831361",
+     DATA_FILE_SIZE: "36052705",
      OPT_DATA_FILE_SIZE: "$OPT_DATA_FILE_SIZE",
      useDataCDNAsStreamingAssetsUrl: false,
 	 
